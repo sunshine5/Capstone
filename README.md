@@ -26,8 +26,7 @@ What did your research find? Comparing linear regression along with linear regre
 What suggestions do you have for next steps? Next steps will include exploring the following models (random forest, KNN, and XG boost) and comparing them with the Linear regression results achieved in this exercise.
 
 #### Outline of project
-- 
-
+- https://github.com/sunshine5/Capstone/blob/main/prompt.ipynb
 
 ##### Contact and Further Information
 simashah010@gmail.com
